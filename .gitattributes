@@ -1,0 +1,13 @@
+Figure[[:space:]]1_RAW[[:space:]]images[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure[[:space:]]2_RAW[[:space:]]images[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure[[:space:]]5_RAW[[:space:]]images[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]1_RAW[[:space:]]images.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]2_RAW[[:space:]]images[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]4_RAW[[:space:]]images.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]8_RAW[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure[[:space:]]3_RAW[[:space:]]images[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure[[:space:]]6[[:space:]]and[[:space:]]Fig.[[:space:]]7_RAW[[:space:]]images[[:space:]]and[[:space:]]Datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]10_Datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]11[[:space:]]and[[:space:]]Figure[[:space:]]12_RAW[[:space:]]images.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]5_RAW[[:space:]]imagets[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
+Supplementary[[:space:]]Figure[[:space:]]6_RAW[[:space:]]images[[:space:]]and[[:space:]]datasets.xlsx filter=lfs diff=lfs merge=lfs -text
